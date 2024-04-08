@@ -1,5 +1,5 @@
 # my-portfolio
-This repository contains my web-application work samples.
+This repository contains my porfolio of web-application work samples.
 
 ## User Story
 AS AN employer
