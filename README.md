@@ -1,5 +1,7 @@
 # my-portfolio
-This repository contains my porfolio of web-application work samples.
+
+## Description
+This repository showcases my deployed porfolio of work samples.
 
 ## User Story
 AS AN employer  
