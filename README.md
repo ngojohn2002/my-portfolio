@@ -10,22 +10,22 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 ## Acceptance Criteria
 GIVEN I need to sample a potential employee's previous work  
-WHEN I load their portfolio  
+1. WHEN I load their portfolio  
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them  
-WHEN I click one of the links in the navigation  
+2. WHEN I click one of the links in the navigation  
 THEN the UI scrolls to the corresponding section  
-WHEN I click on the link to the section about their work  
+3. WHEN I click on the link to the section about their work  
 THEN the UI scrolls to a section with titled images of the developer's applications  
-WHEN I am presented with the developer's first application  
+4. WHEN I am presented with the developer's first application  
 THEN that application's image should be larger in size than the others  
-WHEN I click on the images of the applications  
+5. WHEN I click on the images of the applications  
 THEN I am taken to that deployed application  
-WHEN I resize the page or view the site on various screens and devices  
+6. WHEN I resize the page or view the site on various screens and devices  
 THEN I am presented with a responsive layout that adapts to my viewport  
 
 ## Screenshot
 
 
 ## Link to app
-Please click on the following link to visit my deployed web application:
+Please click on the following link to visit my deployed web application:  
 https://ngojohn2002.github.io/my-portfolio/
