@@ -26,5 +26,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Screenshot
 
 
-## Link to deployed web application
+## Link to app
+Please click on the following link to visit my deployed web application:
 https://ngojohn2002.github.io/my-portfolio/
