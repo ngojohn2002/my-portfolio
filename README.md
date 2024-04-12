@@ -24,7 +24,7 @@ THEN I am taken to that deployed application
 THEN I am presented with a responsive layout that adapts to my viewport  
 
 ## Screenshot
-
+assignment02-my-portfolio/my-portfolio/assets/images/my-portfolio-pic.jpg
 
 ## Link to app
 Please click on the following link to visit my deployed web application:  
